@@ -31,7 +31,7 @@ Este projeto é uma **Landing Page** criada com o objetivo de treinar conceitos 
 1. Clone este repositório ou baixe os arquivos ZIP.
 2. Abrindo diretamente o projeto no Github
 3. [🔗 Acessar projeto no GitHub Pages] 
-
+4. Veja o Projeto funcionando <a href="https://ataides-blume.github.io/landing-page-agencia/>" target="_blank">aqui</a>
 ---
 
 # Agradecimentos
